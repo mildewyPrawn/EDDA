@@ -1,0 +1,25 @@
+/***********************
+  Utilizando terminal
+************************/
+
+Emiliano Galeana Araujo 314032324
+
+Desde la carpeta 'src':
+
+Para compilar:
+     javac Main.java
+
+Para correr:
+     java Main <archivo>
+
+     Donde archivo es un archivo con números separados por ',' de todos los
+     elementos a agregar, deberían ser un número de elementos mayores a 5 e impar
+     pero no lo checo. Igual hay ejemplos de archivos en la carpeta examples.
+
+NOTA: La clase SplayTree la saqué de internet del siguiente repositorio.
+      https://github.com/Bibeknam/algorithmtutorprograms/blob/master/data-structures/splay-trees/SplayTree.java
+
+El programa imprime todas rotaciones de la primer parte del algoritmo, después
+imprime los elementos ordenados, el número de elementos y la mitad. Al final,
+solo imprime el árbol resultante de la segunda fase. Intenté documentarlo mucho
+para que no hubiera problema (Solo lo de Main.java).
